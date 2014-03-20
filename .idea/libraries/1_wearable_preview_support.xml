@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="1_wearable-preview-support">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/wearable-preview-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
